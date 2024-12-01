@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from scipy.interpolate import pchip_interpolate
 from preferendus import GeneticAlgorithm
-# test comment
+# test comments
 class Optimization:
     def __init__(self,
                  paths_actual_network,
